@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<h2>I'm a Digital Concept Developer with a focus on accessible design and development. In recent years, I have developed several apps (pwa) and have focused on improving my skills in accessible development in react.js. <br /><br />
+
+I am currently working on the digital planner 'Ruth Calendar' (ruthcalendar.com), which has been designed and developed in close collaboration with people with various visual impairments. Ruth Calendar is an accessible calendar that can be adapted to different user needs.</h2>
+
 <!--
 **piahelenestorm/piahelenestorm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
