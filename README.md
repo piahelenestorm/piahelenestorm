@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<p>I'm a Product Designer with a focus on accessible design and development. In recent years, I have developed several apps (pwa) and have focused on improving my skills in accessible development in react.js. <br />
+<p>I'm a Digital Product Designer with a focus on accessible design and development. In recent years, I have developed several apps (pwa) and have focused on improving my skills in accessible development in react.js. <br />
 
 I am currently working on the digital planner 'Ruth Calendar', which has been designed and developed in close collaboration with people with various visual impairments. Ruth Calendar is an accessible calendar that can be adapted to different user needs.</p>
 
