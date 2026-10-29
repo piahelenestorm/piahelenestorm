@@ -2,8 +2,6 @@
 
 <p>I'm a full-time Front-End Developer with a focus on accessible design and development. <br />
 
-I am currently working on the digital planner 'Ruth Calendar', which has been designed and developed in close collaboration with people with various visual impairments. Ruth Calendar is an accessible calendar that can be adapted to different user needs.</p>
-
 <!--
 **piahelenestorm/piahelenestorm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
