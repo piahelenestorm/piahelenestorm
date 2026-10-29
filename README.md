@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<p>I'm a full-time Front-End Developer with a focus on accessible design and development. <br />
+<p>I'm a full-time Software Developer with a focus on accessible design and development. <br />
 
 <!--
 **piahelenestorm/piahelenestorm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
